@@ -28,12 +28,6 @@ My current research includes methodological work on causal mediation with negati
   I am currently seeking Ph.D. opportunities in <strong>biostatistics and related quantitative health fields</strong>. If you think our research interests overlap, I would be very happy to connect and introduce myself.
 </div>
 
-[**Curriculum Vitae**](/cv/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[**Email**](mailto:run30@pitt.edu)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[**GitHub**](https://github.com/CharlotteNiu16)
-
 ---
 
 # 🔬 Research Interests
