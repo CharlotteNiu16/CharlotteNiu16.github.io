@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I’m **Ruijie Niu**, an M.S. student in **Biostatistics at the University of Pittsburgh School of Public Health**.
 
-My research interests center on the development of rigorous statistical and computational methods for complex biomedical data. I am particularly interested in causal inference, high-dimensional modeling, and methods motivated by questions in clinical, genomic, and population health research. More broadly, I am drawn to problems that connect methodological innovation with careful simulation, computation, and real-world data analysis.
+My research interests center on the development of rigorous statistical and computational methods for complex biomedical data. I am particularly interested in **causal inference, high-dimensional modeling, and methods motivated by questions in clinical, genomic, and population health research**. More broadly, I am drawn to problems that connect methodological innovation with careful simulation, computation, and real-world data analysis.
 
 My current research includes methodological work on causal mediation with negative controls, Bayesian modeling for high-dimensional biomedical data, and collaborative statistical analyses in oncology and pediatric endocrinology.
 
@@ -36,10 +36,8 @@ I am always open to collaborative research opportunities!
 
 <div style="margin: 0.6em 0 1.0em 0;">
   <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Statistical Methodology</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Causal Inference</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Clinical Biostatistics</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Statistical Genetics &amp; Genomics</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Bayesian &amp; High-Dimensional Biomedical Data</span>
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Causal &amp; Clinical Inference</span>
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Biomedical Data Science</span>
 </div>
 
 <div style="
@@ -47,23 +45,17 @@ I am always open to collaborative research opportunities!
   border-left:4px solid #b8cbe3;
   padding:16px 18px;
   border-radius:8px;
-  margin: 0 0 1.2em 0;
+  margin:0 0 1.2em 0;
   line-height:1.7;
 ">
-  I am especially interested in statistical questions where the scientific problem is easy to state but difficult to answer from observed data. In particular, I am drawn to settings where methods must balance <strong>identification, robustness, interpretability, and practical usefulness</strong>.
+  My research interests center on developing and evaluating statistical methods for complex biomedical and clinical data. I am particularly interested in <strong>causal reasoning, robust inference, and high-dimensional statistical modeling</strong>, with an emphasis on methods that are both theoretically well-founded and useful for real scientific questions.
 </div>
 
-- <strong>Causal inference under unmeasured confounding.</strong><br>
-  How can we identify and estimate meaningful causal effects when important confounders are not fully observed? What kinds of negative-control or design-based information can help?
+- <strong>Statistical methodology:</strong> How can we develop and evaluate methods that remain reliable when information is incomplete, data are complex, or standard modeling assumptions are challenged?
 
-- <strong>Statistical methods for real clinical questions.</strong><br>
-  How can statistical analyses remain both methodologically rigorous and clinically interpretable, especially in observational studies and time-to-event settings?
+- <strong>Causal &amp; clinical inference:</strong> How can we draw interpretable and scientifically meaningful conclusions from observational and clinical data, especially when confounding, missingness, or complex outcome structures are present?
 
-- <strong>High-dimensional biomedical data.</strong><br>
-  How can Bayesian or other structured statistical methods improve feature recovery, latent structure discovery, and downstream interpretation in single-cell and other high-dimensional biological data?
-
-- <strong>When methods work—and when they do not.</strong><br>
-  I am particularly interested in understanding why a method performs well in one setting but fails in another, and what that reveals about assumptions, robustness, and practical deployment.
+- <strong>Biomedical data science:</strong> How can structured statistical models help us learn from high-dimensional biological and health data while preserving interpretability and scientific relevance?
 
 ---
 
