@@ -12,9 +12,11 @@ redirect_from:
 
 Hi! I’m **Ruijie Niu**, an M.S. student in **Biostatistics at the University of Pittsburgh School of Public Health**.
 
-My work sits at the intersection of **causal inference, clinical biostatistics, and biomedical data science**. I am broadly interested in statistical problems motivated by real clinical and biomedical questions, especially when the answer is difficult to recover from observed data alone.
+My research interests center on the development of rigorous statistical and computational methods for complex biomedical data. I am particularly interested in causal inference, high-dimensional modeling, and methods motivated by questions in clinical, genomic, and population health research. More broadly, I am drawn to problems that connect methodological innovation with careful simulation, computation, and real-world data analysis.
 
 My current research includes methodological work on causal mediation with negative controls, Bayesian modeling for high-dimensional biomedical data, and collaborative statistical analyses in oncology and pediatric endocrinology.
+
+I am always open to collaborative research opportunities!
 
 <div style="
   background: #f5f8fc;
@@ -25,7 +27,7 @@ My current research includes methodological work on causal mediation with negati
   line-height: 1.6;
 ">
   <strong>🎓 Ph.D. Opportunities — Fall 2027</strong><br>
-  I am currently seeking Ph.D. opportunities in <strong>biostatistics and related quantitative health fields</strong>. If you think our research interests overlap, I would be very happy to connect and introduce myself.
+  <strong>I am currently seeking Ph.D. opportunities in biostatistics and related quantitative biomedical sciences for Fall 2027.</strong> If you think our research interests overlap, I would be very happy to connect and introduce myself.
 </div>
 
 ---
@@ -33,10 +35,11 @@ My current research includes methodological work on causal mediation with negati
 # 🔬 Research Interests
 
 <div style="margin: 0.6em 0 1.0em 0;">
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Statistical Methodology</span>
   <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Causal Inference</span>
   <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Clinical Biostatistics</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Biomedical Data Science</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Statistical Methodology</span>
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Statistical Genetics &amp; Genomics</span>
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Bayesian &amp; High-Dimensional Biomedical Data</span>
 </div>
 
 <div style="
