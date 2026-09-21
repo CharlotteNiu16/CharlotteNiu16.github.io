@@ -150,12 +150,12 @@ The review synthesizes **49 eligible studies** under PRISMA-ScR / JBI guidance a
 
 ### Published
 
-- **Niu, R.**, & Xia, J. (2025).<br>
-  *Vitamin and Mineral Combined in Diabetes: Modulating HbA1c Across Different Demographics.*<br>
+- *Vitamin and Mineral Combined in Diabetes: Modulating HbA1c Across Different Demographics.*<br>
+  **Niu, R.**, & Xia, J. (2025).<br>
   Applied and Computational Engineering, 132, 257–268.
 
-- **Niu, R.** (2024).<br>
-  *The Role of Plasma Trace Elements in Hypertension Among Elderly Populations in China: A Cross-Sectional Analysis Using CLHLS Data.*<br>
+- *The Role of Plasma Trace Elements in Hypertension Among Elderly Populations in China: A Cross-Sectional Analysis Using CLHLS Data.*<br>
+  **Niu, R.** (2024).<br>
   Theoretical and Natural Science, 70, 18–23.
 
 ### Submitted
