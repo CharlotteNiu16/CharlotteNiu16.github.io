@@ -2,12 +2,14 @@
 layout: default
 permalink: /cv/
 title: "Curriculum Vitae"
-excerpt: "Ruijie Niu's curriculum vitae"
+excerpt: "Ruijie Niu's Biostatistics CV, updated November 13, 2026"
 author_profile: false
 classes: wide
 ---
 
 # Curriculum Vitae
+
+Biostatistics CV · Updated November 13, 2026
 
 <div class="cv-toolbar">
   <a class="btn btn--primary" href="{{ '/files/Ruijie_Niu_CV.pdf' | relative_url }}" download>Download CV</a>

@@ -12,11 +12,7 @@ redirect_from:
 
 Hi! I’m **Ruijie Niu**, an M.S. student in **Biostatistics at the University of Pittsburgh School of Public Health**.
 
-My research interests center on the development of rigorous statistical and computational methods for complex biomedical data. I am particularly interested in **causal inference, high-dimensional modeling, and methods motivated by questions in clinical, genomic, and population health research**. More broadly, I am drawn to problems that connect methodological innovation with careful simulation, computation, and real-world data analysis.
-
-My current research includes methodological work on causal mediation with negative controls, Bayesian modeling for high-dimensional biomedical data, and collaborative statistical analyses in oncology and pediatric endocrinology.
-
-I am always open to collaborative research opportunities!
+My research spans causal inference, Bayesian statistical modeling, and collaborative clinical data analysis. I have worked on causal mediation methods involving negative controls, Bayesian factor models for single-cell perturbation data, and statistical analyses of clinical outcomes. I am particularly interested in understanding the assumptions and limitations of statistical methods, investigating unexpected results, and developing approaches that can be useful in biomedical research.
 
 <div style="
   background: #f5f8fc;
@@ -27,7 +23,7 @@ I am always open to collaborative research opportunities!
   line-height: 1.6;
 ">
   <strong>🎓 Ph.D. Opportunities — Fall 2027</strong><br>
-  <strong>I am currently seeking Ph.D. opportunities in biostatistics and related quantitative biomedical sciences for Fall 2027.</strong> If you think our research interests overlap, I would be very happy to connect and introduce myself.
+  I am seeking Ph.D. opportunities for Fall 2027 in biostatistics and related quantitative health sciences.
 </div>
 
 ---
@@ -35,27 +31,16 @@ I am always open to collaborative research opportunities!
 # 🔬 Research Interests
 
 <div style="margin: 0.6em 0 1.0em 0;">
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Statistical Methodology</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Causal &amp; Clinical Inference</span>
-  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Biomedical Data Science</span>
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Causal Inference and Mediation</span>
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Bayesian and Computational Statistics</span>
+  <span style="display:inline-block; background:#e8f0fb; color:#2b5a95; padding:6px 12px; border-radius:999px; margin:4px 8px 4px 0; font-size:0.95em; font-weight:600;">Clinical and Biomedical Applications</span>
 </div>
 
-<div style="
-  background:#f7f9fc;
-  border-left:4px solid #b8cbe3;
-  padding:16px 18px;
-  border-radius:8px;
-  margin:0 0 1.2em 0;
-  line-height:1.7;
-">
-  My research interests center on developing and evaluating statistical methods for complex biomedical and clinical data. I am particularly interested in <strong>causal reasoning, robust inference, and high-dimensional statistical modeling</strong>, with an emphasis on methods that are both theoretically well-founded and useful for real scientific questions.
-</div>
+- **Causal Inference and Mediation:** Identification and estimation under unmeasured confounding; negative controls; difference-in-differences ideas; sensitivity to identifying assumptions.
 
-- <strong>Statistical methodology:</strong> How can we develop and evaluate methods that remain reliable when information is incomplete, data are complex, or standard modeling assumptions are challenged?
+- **Bayesian and Computational Statistics:** Bayesian latent-variable models; high-dimensional biomedical data; single-cell perturbation analysis; posterior computation and stability of statistical discoveries.
 
-- <strong>Causal &amp; clinical inference:</strong> How can we draw interpretable and scientifically meaningful conclusions from observational and clinical data, especially when confounding, missingness, or complex outcome structures are present?
-
-- <strong>Biomedical data science:</strong> How can structured statistical models help us learn from high-dimensional biological and health data while preserving interpretability and scientific relevance?
+- **Clinical and Biomedical Applications:** Survival and longitudinal data analysis; incomplete follow-up; statistical collaboration and interpretation of biomedical evidence.
 
 ---
 
@@ -71,9 +56,11 @@ I am always open to collaborative research opportunities!
 
 *University of Pittsburgh · with [Dr. Qiong Wu](https://www.publichealth.pitt.edu/directory/qiong-wu)*
 
-I study causal mediation in settings with unmeasured confounding, focusing on how negative-control information and related difference-in-differences structures can support identification and estimation of direct and indirect effects.
+I work with Professor Qiong Wu on causal mediation methods that use negative-control information and difference-in-differences ideas to address unmeasured confounding. My contributions include initial identification derivations, estimator implementation, and simulation-based evaluation for continuous mediators.
 
-My work includes methodological derivations, estimator implementation, and simulation-based evaluation. In the latest formal study, I evaluated **27 scenarios across 27,000 Monte Carlo replications** to examine robustness, interval coverage, and failure under different assumptions.
+In our latest simulation study, we evaluated **ten scenarios with 2,000 Monte Carlo repetitions per scenario**. Under the specified valid assumptions, the negative-control estimators substantially reduced bias, and additional control pairs improved precision. Sensitivity analyses also showed that direct and indirect effects could become substantially biased under model misspecification, even when the total effect remained relatively close to its true value.
+
+I have also implemented a separate systematic-bias calibration study. This work remains ongoing, and an empirical application using GLP-1-related data is being prepared.
 
   </div>
 </div>
@@ -84,13 +71,17 @@ My work includes methodological derivations, estimator implementation, and simul
   </div>
   <div class="paper-box-text" markdown="1">
 
-## Bayesian Factor Models for High-Dimensional Biomedical Data
+## Bayesian Factor Modeling and Single-Cell Perturbation Analysis
 
 *University of Pittsburgh School of Medicine · with [Dr. Qiyiwen Zhang](https://people.dom.pitt.edu/people/qiyiwen-zhang-phd)*
 
-I am studying Bayesian latent-factor methods for high-dimensional biomedical data, with an initial focus on **guided sparse factor analysis (GSFA)** for single-cell perturbation studies.
+I work with Professor Qiyiwen Zhang on Bayesian factor models for high-dimensional genomic data. I began by studying RABFA derivations and reproducing GSFA simulations and single-cell CRISPR analyses.
 
-My current work centers on reproducing and benchmarking GSFA on real and simulated data, understanding its practical behavior, and using those results to motivate further methodological development.
+During reproduction, I investigated repeated factor matching using the Hungarian algorithm and examined discrepancies in weak-effect estimation by comparing alternative posterior summaries. These analyses helped distinguish evaluation-related differences from potential model limitations. Additional experiments across random seeds raised questions about the stability of detected gene sets.
+
+Our ongoing methodological work extends GSFA to model raw count data using a negative binomial likelihood while retaining its perturbation–factor–gene structure. My contributions include model derivations, sampling-code implementation, and simulation comparisons. Preliminary results are encouraging in some settings, although convergence and factor-recovery challenges remain in more complex scenarios.
+
+I am exploring Poisson and Poisson-lognormal formulations and preparing the Methods and Supplementary Materials for this ongoing project.
 
   </div>
 </div>
@@ -105,7 +96,7 @@ My current work centers on reproducing and benchmarking GSFA on real and simulat
 
 *University of Pittsburgh / UPMC · with [Dr. Hong Wang](https://www.publichealth.pitt.edu/directory/hong-wang)*
 
-I collaborate with clinical investigators on oncology studies involving response and time-to-event outcomes. My work includes analysis-dataset and endpoint construction, survival analysis, statistical summaries, and investigator-facing reporting.
+I collaborate with clinical investigators on oncology studies involving treatment response and time-to-event outcomes. Working within a statistical research team, I conduct survival analyses, prepare statistical summaries and figures, and deliver reports addressing investigators’ research questions.
 
   </div>
 </div>
@@ -120,9 +111,9 @@ I collaborate with clinical investigators on oncology studies involving response
 
 *University of Pittsburgh / UPMC · with [Dr. Qiong Wu](https://www.publichealth.pitt.edu/directory/qiong-wu)*
 
-I analyze sex differences in cardiometabolic risk following youth-onset type 1 diabetes, with work spanning cohort construction, missing-data and attrition assessment, logistic regression, and interaction analyses.
+I collaborate on a longitudinal study of cardiometabolic outcomes following type 1 diabetes diagnosis. Working with an initial cohort of 542 patients, I reconciled follow-up records, incorporated corrected and supplemental clinical measurements, and examined missingness and follow-up availability.
 
-The project has given me experience translating a clinical question into an interpretable statistical analysis using longitudinal patient data.
+I used piecewise linear mixed-effects models to investigate sex-specific changes in BMI z-score and lipid measures over time. The analyses suggested differences in early BMI z-score and HDL-C trajectories but did not provide evidence of sex differences in later slopes.
 
   </div>
 </div>
@@ -137,9 +128,11 @@ The project has given me experience translating a clinical question into an inte
 
 *University of Minnesota · with [Dr. Feng Xie](https://cse.umn.edu/datascience/feng-xie)*
 
-I contribute to a scoping review on the clinical utility, decision-making role, implementation, and research gaps of foundation models in emergency and critical care.
+I contribute to a scoping review examining the clinical utility of foundation models in emergency and critical care. I independently completed clinical-utility data extraction and classification for all 49 included studies, examining evidence maturity, clinical risk, workflow integration, and reported hallucination or safety-mitigation measures.
 
-The review synthesizes **49 eligible studies** under PRISMA-ScR / JBI guidance and has been submitted to *Critical Care*.
+I also contributed to the synthesis and manuscript text for the Clinical Utility section.
+
+**Manuscript status:** Under review at JMIR (2026).
 
   </div>
 </div>
@@ -152,48 +145,54 @@ The review synthesizes **49 eligible studies** under PRISMA-ScR / JBI guidance a
 
 - *Vitamin and Mineral Combined in Diabetes: Modulating HbA1c Across Different Demographics.*<br>
   **Niu, R.**, & Xia, J. (2025).<br>
-  Applied and Computational Engineering, 132, 257–268.
+  *Applied and Computational Engineering*, 132, 257–268. [DOI](https://doi.org/10.54254/2755-2721/2024.20798)
 
 - *The Role of Plasma Trace Elements in Hypertension Among Elderly Populations in China: A Cross-Sectional Analysis Using CLHLS Data.*<br>
   **Niu, R.** (2024).<br>
-  Theoretical and Natural Science, 70, 18–23.
+  *Theoretical and Natural Science*, 70, 18–23. [DOI](https://doi.org/10.54254/2753-8818/2024.18203)
 
-### Submitted
+### Under Review
 
 - *Mapping the Clinical Utility of Foundation Models in Emergency and Critical Care: A Scoping Review of Decision-Making, Implementation, and Research Gaps.*<br>
-  Co-author. Submitted to *Critical Care*, 2026.
+  Under review at JMIR, 2026. Contribution: clinical-utility data extraction, synthesis, and manuscript text.
 
 ---
 
 # 🎓 Education
 
-- **University of Pittsburgh**<br>
+- **University of Pittsburgh, School of Public Health**<br>
   M.S. in Biostatistics, expected May 2027<br>
   Pittsburgh, Pennsylvania
 
 - **Xi’an Jiaotong-Liverpool University / University of Liverpool**<br>
-  B.S. in Biomedical Statistics, Honours, 2025<br>
+  B.Sc. (Hons) in Biomedical Statistics, July 2025<br>
   Suzhou, China
 
 ---
 
 # 💼 Selected Experience
 
-- **University of Pittsburgh / UPMC**
+- **University of Pittsburgh / UPMC — Clinical Biostatistics**<br>
+  **Biostatistics Research Assistant** · November 2025–Present<br>
+  Oncology and pediatric endocrinology collaborations.
 
-  **Biostatistics Research Assistant / Research Collaborator** · April 2026–Present
+- **University of Pittsburgh, Biostatistics — Causal Mediation**<br>
+  **Student Research Assistant** · January 2026–Present<br>
+  Identification, estimation, and simulation for causal mediation with negative controls.
 
-  Collaborative statistical research in causal inference, oncology, pediatric endocrinology, and high-dimensional biomedical data.
+- **University of Pittsburgh, Medicine — Bayesian Factor Modeling**<br>
+  **Graduate Research Collaborator** · June 2026–Present<br>
+  Bayesian factor models for single-cell perturbation data.
 
 - **Tasly Pharma**
 
-  **Biostatistics Intern / SAS Programmer** · Summer 2024
+  **Biostatistics Intern / SAS Programmer** · June–September 2024
 
   Supported Phase II/III clinical-study workflows through SAS programming, clinical-data cleaning and validation, endpoint derivation, and review of statistical analysis and reporting materials.
 
 - **Tianjin Fourth Center Hospital**
 
-  **Medical Records / Information Department Intern** · Summer 2023
+  **Medical Records / Information Intern** · July–August 2023
 
   Worked with hospital information and medical-record workflows, including patient-document access, data verification, reporting support, and medication-information services.
 
@@ -224,5 +223,5 @@ The review synthesizes **49 eligible studies** under PRISMA-ScR / JBI guidance a
 ---
 
 <small>
-Last updated September 2026 · Pittsburgh, PA
+Last updated November 2026 · Pittsburgh, PA
 </small>
