@@ -111,9 +111,11 @@ I collaborate with clinical investigators on oncology studies involving treatmen
 
 *University of Pittsburgh / UPMC · with [Dr. Qiong Wu](https://www.publichealth.pitt.edu/directory/qiong-wu)*
 
-I collaborate on a longitudinal study of cardiometabolic outcomes following type 1 diabetes diagnosis. Working with an initial cohort of 542 patients, I reconciled follow-up records, incorporated corrected and supplemental clinical measurements, and examined missingness and follow-up availability.
+I collaborate with clinical investigators on sex differences in cardiometabolic health following youth-onset type 1 diabetes. My work spans longitudinal and cross-sectional analyses, including cohort construction, clinical-data verification, and missingness and attrition assessment.
 
-I used piecewise linear mixed-effects models to investigate sex-specific changes in BMI z-score and lipid measures over time. The analyses suggested differences in early BMI z-score and HDL-C trajectories but did not provide evidence of sex differences in later slopes.
+For the longitudinal study, I reconciled follow-up records and used piecewise linear mixed-effects models to compare BMI and lipid trajectories by sex. I am the third author of *Sex Differences in Adiposity and Lipid Trajectories Emerge Early After Type 1 Diabetes Onset and Stabilize by Four Years*, submitted to *Diabetes Research and Clinical Practice* (2026).
+
+For the separate cross-sectional study, I contributed to analyses of cardiometabolic risk factors four years after diagnosis, including logistic regression and interaction analyses. I am also the third author of *Sex Differences in Cardiometabolic Risk Factors (and their Determinants) at 4 Years After Type 1 Diabetes Diagnosis in Youth*, submitted to *Pediatric Diabetes* (2026).
 
   </div>
 </div>
@@ -128,11 +130,9 @@ I used piecewise linear mixed-effects models to investigate sex-specific changes
 
 *University of Minnesota · with [Dr. Feng Xie](https://cse.umn.edu/datascience/feng-xie)*
 
-I contribute to a scoping review examining the clinical utility of foundation models in emergency and critical care. I independently completed clinical-utility data extraction and classification for all 49 included studies, examining evidence maturity, clinical risk, workflow integration, and reported hallucination or safety-mitigation measures.
+I contribute to a scoping review of the clinical utility, decision-making role, implementation, and research gaps of foundation models in emergency and critical care.
 
-I also contributed to the synthesis and manuscript text for the Clinical Utility section.
-
-**Manuscript status:** Under review at JMIR (2026).
+The review synthesizes 49 eligible studies. I independently extracted and coded the clinical-utility evidence across four dimensions—evidence maturity, clinical risk, workflow integration, and reported safety mitigation—and contributed to evidence synthesis and manuscript writing. The manuscript has been submitted to *JMIR* (2026).
 
   </div>
 </div>
@@ -141,7 +141,21 @@ I also contributed to the synthesis and manuscript text for the Clinical Utility
 
 # 📝 Publications & Research Writing
 
-### Published
+### Submitted manuscripts
+
+- *Sex Differences in Adiposity and Lipid Trajectories Emerge Early After Type 1 Diabetes Onset and Stabilize by Four Years.*<br>
+  van Iersel, L., Wu, Q., **Niu, R.**, Libman, I., & Tas, E. (2026).<br>
+  Submitted to *Diabetes Research and Clinical Practice*.
+
+- *Sex Differences in Cardiometabolic Risk Factors (and their Determinants) at 4 Years After Type 1 Diabetes Diagnosis in Youth.*<br>
+  van Iersel, L., Wu, Q., **Niu, R.**, Libman, I., & Tas, E. (2026).<br>
+  Submitted to *Pediatric Diabetes*.
+
+- *Mapping the Clinical Utility of Foundation Models in Emergency and Critical Care: A Scoping Review of Decision-Making, Implementation, and Research Gaps.*<br>
+  Coauthor. Submitted to *JMIR* (2026).<br>
+  Contribution: clinical-utility data extraction, synthesis, and manuscript text.
+
+### Published conference-proceedings articles
 
 - *Vitamin and Mineral Combined in Diabetes: Modulating HbA1c Across Different Demographics.*<br>
   **Niu, R.**, & Xia, J. (2025).<br>
@@ -150,11 +164,6 @@ I also contributed to the synthesis and manuscript text for the Clinical Utility
 - *The Role of Plasma Trace Elements in Hypertension Among Elderly Populations in China: A Cross-Sectional Analysis Using CLHLS Data.*<br>
   **Niu, R.** (2024).<br>
   *Theoretical and Natural Science*, 70, 18–23. [DOI](https://doi.org/10.54254/2753-8818/2024.18203)
-
-### Under Review
-
-- *Mapping the Clinical Utility of Foundation Models in Emergency and Critical Care: A Scoping Review of Decision-Making, Implementation, and Research Gaps.*<br>
-  Under review at JMIR, 2026. Contribution: clinical-utility data extraction, synthesis, and manuscript text.
 
 ---
 
@@ -192,9 +201,23 @@ I also contributed to the synthesis and manuscript text for the Clinical Utility
 
 - **Tianjin Fourth Center Hospital**
 
-  **Medical Records / Information Intern** · July–August 2023
+  **Medical Records / Information Department Intern** · Summer 2023
 
-  Worked with hospital information and medical-record workflows, including patient-document access, data verification, reporting support, and medication-information services.
+  Supported medical-record access and data verification within hospital information workflows; assisted with reporting and medication-information services.
+
+---
+
+# Technical Skills
+
+**Programming and reporting:** R; Python; SAS; LaTeX.
+
+**Statistical modeling:** Causal mediation and negative controls; survival analysis; longitudinal mixed-effects models; logistic regression and interaction analysis; Bayesian latent-factor models.
+
+**Statistical computation:** Monte Carlo simulation; bootstrap confidence intervals; MCMC/Gibbs sampling; multichain convergence diagnostics; Slurm-based computing.
+
+**Clinical data analysis:** Cohort and endpoint construction; longitudinal data cleaning and validation; missingness and attrition assessment; investigator-facing statistical reports.
+
+**Languages:** Chinese (native); English.
 
 ---
 
